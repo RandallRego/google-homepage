@@ -422,3 +422,18 @@ td,
 th {
   padding: 0;
 }
+
+/* Lists
+   ========================================================================== */
+
+/**
+ * Remove spacing and decorations from lists
+ */
+
+ul,
+ol {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+
+}
